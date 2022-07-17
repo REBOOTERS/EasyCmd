@@ -1,0 +1,7 @@
+2022-07-17 11:17:50.235 20855-20855/com.engineer.android.mini D/START_ACTIVITY_ActivityF: startActivity class com.engineer.android.mini.ui.behavior.lifecycle.ActivityF
+2022-07-17 11:17:50.323 20855-20855/com.engineer.android.mini E/LifeCycle_ActivityF: onCreate() called with: savedInstanceState = null
+2022-07-17 11:17:50.326 20855-20855/com.engineer.android.mini E/LifeCycle_ActivityF: onStart() called
+2022-07-17 11:17:50.333 20855-20855/com.engineer.android.mini E/LifeCycle_ActivityF: onResume() called
+2022-07-17 11:18:00.347 20855-20855/com.engineer.android.mini E/LifeCycle_ActivityF: onPause() called
+2022-07-17 11:18:00.747 20855-20855/com.engineer.android.mini E/LifeCycle_ActivityF: onStop() called
+2022-07-17 11:18:00.752 20855-20855/com.engineer.android.mini E/LifeCycle_ActivityF: onDestroy() called
